@@ -42,7 +42,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 🔖 Layout
 
-Você pode visualizar o layout do projeto através [DESSE LINK](https://rafagnx.github.io/Pagina-de-Login/). 
+Você pode visualizar o layout do projeto através [DESSE LINK](https://rafagnx.github.io/kanban/). 
 
 ## :memo: Licença
 
